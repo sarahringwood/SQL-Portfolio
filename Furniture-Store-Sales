@@ -1,7 +1,9 @@
+/*
+Sales from an online furniture store
+Collected by: https://www.khanacademy.org/profile/charlesb2000/
+*/
+
 CREATE TABLE sales(
- 
- /* Data obtained from https://gist.github.com/pamelafox/791ce9e4eb31abce2362 */
- 
  ID INTEGER  NOT NULL PRIMARY KEY
 , transaction_date TEXT
 , product TEXT
